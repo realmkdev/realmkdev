@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Welcome!
 
-<!--
-**realmkdev/realmkdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am Muhammad Kamran, a passionate Software Engineering student from Pakistan. I have a keen interest in Python, Web Technologies, and SQL.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+const kamran = {
+  pronouns: "He" | "Him",
+  code: ["Python", "JavaScript", "SQL"],
+  technologies: {
+      backend: ["Flask"],
+      frontend: ["HTML", "CSS"],
+      devOps: ["Linux", "Windows"],
+      databases: ["MySQL", "SQLite"],
+  },
+  currentFocus: "Strengthening my Python skills and exploring new libraries"
+};
+```
