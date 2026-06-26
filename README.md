@@ -41,7 +41,7 @@ A snapshot of the technologies I am currently mastering and proficient in:
 Let's connect and collaborate! Feel free to check out my work, view my professional profile, or reach out for a discussion:
 
 * **Portfolio:** [**View My Portfolio**](https://realmkdev.github.io/)
-* **LinkedIn:** [**Connect on LinkedIn**](www.linkedin.com/in/muhammad-kamran-610642419)
+* **LinkedIn:** [**Connect on LinkedIn**](https://www.linkedin.com/in/muhammad-kamran-610642419)
 * **Credly Verification:** [**Verify Credentials**](https://www.credly.com/users/muhammad-kamran.ee1a2b15)
 
 ---
